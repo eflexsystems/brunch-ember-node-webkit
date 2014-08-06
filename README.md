@@ -1,7 +1,7 @@
-This is an easy template to get started with a full-stack web application.
+This is an easy template to get started with a node-webkit application.
 
 
-##Front-End##
+##Packages##
 
 * jquery
 * ember.js
@@ -13,21 +13,12 @@ This is an easy template to get started with a full-stack web application.
 * font-awesome
 * stylus
 
-
-##Back-End##
-
-* node.js
-* socket.io
-* express
-
-
 ##Testing##
 
 * mocha
 * chai
 * sinon
-* Front-End tests are in the test folder and can be run by either
-    * Running brunch and navigating to http://localhost:3333/test
+* Front-End tests are in the test folder and can be run by
     * Installing mocha-phantomjs, building with brunch and running `mocha-phantomjs public/test/index.html`
 
 
