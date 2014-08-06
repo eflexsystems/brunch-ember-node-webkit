@@ -1,0 +1,43 @@
+{
+  "author": "Your Name",
+  "name": "package-name",
+  "main": "public/index.html",
+  "window": {
+    "//": "screen settings",
+    "title": "my awesome app",
+    "icon": "link.png",
+    "toolbar": true,
+    "frame": true,
+    "position": "center",
+    "width": 1024,
+    "height": 768,
+    "min_width": 1024,
+    "min_height": 768,
+    "resizable": true,
+    "always-on-top": false,
+    "fullscreen": false
+  },
+  "description": "Package description",
+  "version": "0.0.3",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {},
+  "dependencies": {
+    "auto-reload-brunch": "1.7.3",
+    "clean-css-brunch": "1.7.1",
+    "coffee-script-brunch": "1.8.0",
+    "coffeelint-brunch": "1.7.0",
+    "css-brunch": "1.7.0",
+    "emblem": "0.3.16",
+    "emblem-brunch": "git://github.com/eflexsystems/emblem-brunch.git",
+    "javascript-brunch": "1.7.1",
+    "moment": "2.8.1",
+    "nodewebkit": "^0.10.0",
+    "stylus": "0.47.3",
+    "stylus-brunch": "1.8.1",
+    "uglify-js-brunch": "1.7.7"
+  }
+}

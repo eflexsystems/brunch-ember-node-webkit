@@ -1,0 +1,29 @@
+{
+  "author": "Your Name",
+  "name": "package-name",
+  "main": "index.html",
+  "window": {
+    "//": "screen settings",
+    "title": "my awesome app",
+    "icon": "link.png",
+    "toolbar": true,
+    "frame": true,
+    "position": "center",
+    "width": 1024,
+    "height": 768,
+    "min_width": 1024,
+    "min_height": 768,
+    "resizable": true,
+    "always-on-top": false,
+    "fullscreen": false
+  },
+  "description": "Package description",
+  "version": "0.0.3",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {},
+  "dependencies": {}
+}
